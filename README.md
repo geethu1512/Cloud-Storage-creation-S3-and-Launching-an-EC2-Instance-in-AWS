@@ -1,5 +1,9 @@
 # Cloud-Storage-creation-S3-and-Launching-an-EC2-Instance-in-AWS
 Ex.2 Cloud storage creation (S3) and launching an (Ec2) instance in AWS
+~~~
+Name:GEETHU R
+Register No.: 212224040089
+~~~
 Aim:
 To create a Simple Storage Service (S3) in AWS and to launch an EC2 instance in AWS. 
 Procedure
@@ -53,11 +57,14 @@ Snap Shots:
 
 Snap Shot 1: Simple Storage Service (S3)
  
+<img width="1151" height="553" alt="s3" src="https://github.com/user-attachments/assets/6ca13462-fcde-46b4-9ab2-f1146fccbff1" />
 
 Snap Shot 2:  EC2 (Elastic Compute Cloud) – Instance
 
 
+<img width="1152" height="558" alt="ec2" src="https://github.com/user-attachments/assets/833fca92-24a5-4f09-bc4a-bd03a851822f" />
 
+<img width="1152" height="553" alt="ec2 3" src="https://github.com/user-attachments/assets/872edb4d-75d9-4633-aa42-d3ab17733840" />
 
 
 
